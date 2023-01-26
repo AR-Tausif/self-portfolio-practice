@@ -108,7 +108,6 @@ form {
     background: #facd3b;
     width: 100%;
     height: 430px;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
     gap: 25px;
